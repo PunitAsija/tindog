@@ -1,0 +1,141 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.title {
+    background-color: rgb(39, 222, 19);
+    padding-bottom: 190px;
+    margin-bottom: -66px;
+}
+
+.navbar-brand {
+    font-size: 46px;
+    font-weight: bold;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container1 {
+
+
+    padding: 3% 15% 7%;
+    padding-right: 3%;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.im1{
+    margin: auto 10.8rem;
+    float: right;
+    transform: rotate(30deg);
+   position: absolute;
+}
+
+.container-fluid {
+    color: aliceblue;
+    margin-top: 6.625rem;
+    font-size: 41px;
+
+}
+
+.message {
+    font-size: 54px;
+}
+
+
+.ho:hover {
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.825)
+}
+.fraction
+{
+    background-color: aliceblue;
+    padding: 7% 15%;
+    position: relative;
+    
+}
+.feature-box
+{
+    padding:5%;
+    text-align: center;
+}
+h3{
+    font-family: 'Monsterrat-bold';
+}
+.icon{
+    color:rgb(39, 222, 19);
+    margin-bottom: 1rem;
+}
+.icon:hover{
+    color:#ff4c68;
+}
+
+
+
+
+
+
+.corsou{
+    background-color: rgb(39, 222, 19);
+    text-align: center;
+    color:aliceblue; 
+}
+h2{
+    font-family: 'Monsterrat-bold';
+    font-size:3rem;
+    line-height: 1.5;
+}
+.cor{
+    padding:7% 21%;
+}
+.im2{
+    width:10%;
+    border-radius: 52rem;
+    margin: 34px;
+    
+}
+.pack{
+    padding-bottom: 50px;
+    font-size: 141px;
+}
+
+
+
+
+
+.pae{
+    background-color: rgb(39, 222, 19);
+    color: aliceblue;
+}
+
+
+.last{
+    height: 100px;
+}
+.footic
+{
+    padding-left: 25px;
+    padding-right: 25px;
+}
+
+
+
+
+
+@media (max-width:1000px)
+{
+    .title
+    {
+        padding-bottom: 51rem;
+    }
+    .im1
+    {  
+        transform: rotate(0);
+    }
+}
+@media(min-width:990px)and(max-width:1042px)
+{
+    .im1
+    {
+        transform: rotate(9deg);
+        padding-left: 81px;
+    }
+}
